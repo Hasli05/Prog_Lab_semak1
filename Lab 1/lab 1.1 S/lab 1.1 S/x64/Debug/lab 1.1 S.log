@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\msxku\Desktop\1 курс\Прога\lab 1.1 S\lab 1.1 S\Source.c(15,5): warning C4013: printf: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\msxku\Desktop\1 курс\Прога\lab 1.1 S\lab 1.1 S\Source.c(17,5): warning C4013: scanf: нет определения; предполагается "extern" с возвратом типа "int"
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ printf в функции main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ scanf в функции main.
+C:\Users\msxku\Desktop\1 курс\Прога\lab 1.1 S\x64\Debug\lab 1.1 S.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
